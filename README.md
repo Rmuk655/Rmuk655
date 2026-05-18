@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Krishnan 👋
 
-<!--
-**Rmuk655/Rmuk655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergraduate at IIT Hyderabad interested in systems, compilers, computer architecture, and ML inference optimization.
 
-Here are some ideas to get you started:
+## Currently Working On
+- DistillSpec speculative decoding research
+- RISC-V tooling and simulators
+- xv6 kernel extensions
+- LeetCode and competitive programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Operating Systems
+- Compilers
+- Computer Architecture
+- ML Systems
+- Performance Engineering
+
+## Featured Projects
+
+### RISC-V Toolchain & Web Simulator
+Browser-based RISC-V simulator and debugger with cache simulation, hazard visualization, and WebAssembly integration.
+
+### xv6 Kernel Extensions
+Implemented MLFQ scheduling, virtual memory optimizations, RAID simulation, and disk scheduling in xv6.
+
+### OCaml Compiler Extension
+Extended an OCaml compiler with exception handling support across lexer, parser, AST, typechecker, and runtime stages.
+
+### Gem5 FPU Optimization
+Investigated FPU-assisted integer acceleration in Gem5 using instruction-level parallelism and performance analysis.
+
+## Profiles
+- LinkedIn: https://www.linkedin.com/in/krishnan-r-843a48318/
+- LeetCode: https://leetcode.com/u/rmuk/
+- Codeforces: https://codeforces.com/profile/muk_r1
