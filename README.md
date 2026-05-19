@@ -3,28 +3,27 @@
 CS undergraduate at IIT Hyderabad interested in systems, compilers, computer architecture, and Machine Learning.
 
 ## Currently Working On
-- DistillSpec speculative decoding research
-- RISC-V tooling and simulators
+- Optimizing LLM inference
+- RISC-V tooling and simulator
 - xv6 kernel extensions
-- LeetCode and competitive programming
 
 ## Interests
 - Operating Systems
 - Compilers
 - Computer Architecture
-- ML Systems
+- Machine Learning Systems
 - Performance Engineering
 
 ## Featured Projects
 
 ### RISC-V Toolchain & Web Simulator
-Browser-based RISC-V simulator and debugger with cache simulation, hazard visualization, and WebAssembly integration.
+Browser-based RISC-V assembler, disassembler, simulator and debugger with cache simulation, pipeline hazard detection, and WebAssembly integration.
 
 ### xv6 Kernel Extensions
-Implemented MLFQ scheduling, virtual memory optimizations, RAID simulation, and disk scheduling in xv6.
+Extended xv6 by implementing MLFQ scheduling, virtual memory optimizations, RAID simulation, and disk scheduling in xv6.
 
 ### OCaml Compiler Extension
-Extended an OCaml compiler with exception handling support across lexer, parser, AST, typechecker, and runtime stages.
+Extended an OCaml compiler with exception handling support across lexer, parser, Abstract Syntax Tree, typechecker, and runtime stages.
 
 ### Gem5 FPU Optimization
 Investigated FPU-assisted integer acceleration in Gem5 using instruction-level parallelism and performance analysis.
