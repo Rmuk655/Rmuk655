@@ -1,6 +1,6 @@
 # Hi, I'm Krishnan 👋
 
-CS undergraduate at IIT Hyderabad interested in systems, compilers, computer architecture, and ML inference optimization.
+CS undergraduate at IIT Hyderabad interested in systems, compilers, computer architecture, and Machine Learning.
 
 ## Currently Working On
 - DistillSpec speculative decoding research
