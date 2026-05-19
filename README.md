@@ -30,6 +30,6 @@ Extended an OCaml compiler with exception handling support across lexer, parser,
 Investigated FPU-assisted integer acceleration in Gem5 using instruction-level parallelism and performance analysis.
 
 ## Profiles
-- LinkedIn: https://www.linkedin.com/in/krishnan-r-843a48318/
+- LinkedIn: https://www.linkedin.com/in/krishnan-r-iith/
 - LeetCode: https://leetcode.com/u/rmuk/
 - Codeforces: https://codeforces.com/profile/muk_r1
