@@ -3,9 +3,9 @@
 CS undergraduate at IIT Hyderabad interested in systems, compilers, computer architecture, and Machine Learning.
 
 ## Currently Working On
+- Contributing to LLVM (X86 backend)
 - Optimizing LLM inference
-- RISC-V tooling and simulator
-- xv6 kernel extensions
+- Compiler construction: DSL front ends and lowering
 
 ## Interests
 - Operating Systems
@@ -15,6 +15,9 @@ CS undergraduate at IIT Hyderabad interested in systems, compilers, computer arc
 - Performance Engineering
 
 ## Featured Projects
+
+### LLVM Contribution
+Fixed an X86 backend crash on vector `atomicrmw` ([llvm-project#226002](https://github.com/llvm/llvm-project/issues/226002)): vector operands are now expanded to a `cmpxchg` loop. Includes a regression test with and without `+cx16`. Pull request: [#230788](https://github.com/llvm/llvm-project/pull/230788) (open).
 
 ### RISC-V Toolchain & Web Simulator
 Browser-based RISC-V assembler, disassembler, simulator and debugger with cache simulation, pipeline hazard detection, and WebAssembly integration.
