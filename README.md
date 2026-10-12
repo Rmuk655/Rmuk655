@@ -26,10 +26,6 @@ Computer Science undergraduate at **IIT Hyderabad** (B.Tech CSE, 2024-2028). I l
 
 Operating systems · Compilers · Computer architecture · ML systems · Performance engineering
 
-## A note on AI use
-
-I use AI assistants for explanation, review and, in some projects, implementation. Where a project's implementation was written with an AI assistant under my direction (for example Tune DSL), its README says so.
-
 ## Profiles
 
 [LinkedIn](https://www.linkedin.com/in/krishnan-r-iith/) · [LeetCode](https://leetcode.com/u/rmuk/) · [Codeforces](https://codeforces.com/profile/muk_r1)
