@@ -6,7 +6,7 @@ Computer Science undergraduate at **IIT Hyderabad** (B.Tech CSE, 2024-2028). I l
 
 - Fixing an **X86 backend crash in LLVM** on vector `atomicrmw` ([issue #226002](https://github.com/llvm/llvm-project/issues/226002), [PR #230788](https://github.com/llvm/llvm-project/pull/230788), open)
 - Compiler construction: DSL front ends and lowering to LLVM/MLIR
-- Research on speculative decoding and draft-model distillation
+- Research on speculative decoding and draft-model distillation ([write-up on Medium](https://medium.com/p/405d2f0bf53f))
 
 ## Selected work
 
@@ -15,7 +15,7 @@ Computer Science undergraduate at **IIT Hyderabad** (B.Tech CSE, 2024-2028). I l
 | [**LLVM contribution**](https://github.com/llvm/llvm-project/pull/230788) | Root-caused and fixed an X86 ISel crash: vector `atomicrmw` operands are now expanded to a `cmpxchg` loop, with regression tests with and without `+cx16` | C++, LLVM |
 | [**RISC-V Toolchain & Web Simulator**](https://github.com/Rmuk655/RISC-V-Toolchain-Web-Simulator) | Assembler, disassembler, debugger, cache simulator and pipeline hazard detector; compiles to WebAssembly for a browser front end | C++17, WASM |
 | [**xv6 Kernel Extensions**](https://github.com/Rmuk655/xv6-Kernel-Extensions) | Syscall-aware MLFQ scheduler, clock page replacement with swap, FCFS/SSTF disk scheduling, RAID 0/1/5-backed swap | C, RISC-V |
-| [**DistillSpec research**](https://github.com/Rmuk655/Distill-Spec-Research) | Distillation objectives for speculative-decoding draft models on Qwen3 pairs; a careful negative result against a strong JSD baseline | Python, PyTorch |
+| [**DistillSpec research**](https://github.com/Rmuk655/Distill-Spec-Research) | Multi-GPU platform for speculative-decoding research: 500+ tracked experiments, 71 checkpoints, multi-rollout distillation that beat the JSD baseline, and delayed tree branching extended to trained drafts ([write-up](https://medium.com/p/405d2f0bf53f)) | Python, PyTorch, vLLM |
 | [**OCaml compiler extension**](https://github.com/Rmuk655/miniml-compiler-extension) | Exception handling across lexer, parser, AST, typechecker and runtime | OCaml |
 | [**Gem5 FPU optimization**](https://github.com/Rmuk655/Gem5-FPU-Pipeline-Optimization) | Splitting integer work across integer and FP units; measured speed-ups and where they disappear | C |
 | [**Data Structures**](https://github.com/Rmuk655/Data-Structures) | Balanced trees (AVL, red-black, 2-4, B-tree), hashing, graphs and 2-SAT, fuzz-tested against `std::set` | C++ |
